@@ -1,1 +1,1 @@
-# sample-spock
+# Sample using spock framework - BDD.
